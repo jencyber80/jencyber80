@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jencyber80
-- 👀 I’m interested in ... Cyber Security
-- 🌱 I’m currently learning ... Cyber Security at UCF
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in entering the field of Cybersecurity.
+- 🌱 I’m currently pursing my CompTIA a+ and N+. Currently have CompTIA Sec+ and a Professional Certificate from the University of Central Florida in Cyber Defense.
+- 💞️ I’m looking to collaborate on labs and projects directed toward Cybersecurity. 
 - 📫 How to reach me ... jenycyber80@gmail.com
 
 <!---
